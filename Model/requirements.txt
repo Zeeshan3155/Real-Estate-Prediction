@@ -1,0 +1,12 @@
+Flask==1.1.2
+itsdangerous==1.1.0
+Jinja2==2.11.3
+KNN==1.0.0
+matplotlib==3.5.2
+numpy==1.22.4
+pandas==1.4.3
+pickleshare==0.7.5
+scikit-learn==1.1.1
+seaborn==0.11.2
+sklearn==0.0
+statsmodels==0.13.5
