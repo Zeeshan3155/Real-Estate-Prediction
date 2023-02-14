@@ -1,7 +1,7 @@
 
 # Real State Price Prediction
 
-Designed and developed an end-to-end real state price prediction website for the Bangaluru area in India. The first step involves data analysis, data cleaning, data visualization, and creating a machine learning model to predict house prices. I have built a model using sklearn and linear regression. The second step is to build a python flask server that uses the saved model to serve HTTP requests and the third step is to build a website in HTML, CSS, and javascript that allows the user to enter the home square ft area, bedrooms, etc and it will call the python flask server to retrieve the predicted price.
+This is an end-to-end project for real estate price prediction in the Bangaluru area in India. The project involves building a regression model using the Bangalore home prices dataset from Kaggle. The model is integrated into a Python Flask server, which serves HTTP requests. The website is built using HTML, CSS, and JavaScript, and allows users to enter home square footage, number of bedrooms, etc. The website then calls the Python Flask server to retrieve the predicted price. The project is designed to predict home prices in the Bangaluru area.
 
 ## 📸Screenshots
 
